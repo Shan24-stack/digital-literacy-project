@@ -1,0 +1,36 @@
+# 📁 Task 2: Build Your Student Digital Portfolio – Reflection
+
+## 🧠 Overview
+In this task, I established my professional digital presence by creating and updating profiles on key platforms. This activity helped me understand the importance of presenting my skills, achievements, and academic background in a structured and professional way online.
+
+---
+
+## 🌐 Platforms Chosen
+I used the following platforms:
+
+- **GitHub** – To showcase my coding projects and technical work. I created a profile README including my personal details and learning goals.
+- **LinkedIn** – To build a professional profile and network. I updated my education section with my degree, institution, and expected graduation year.
+- **Kaggle** – To explore data science and practice working with datasets, competitions, and notebooks.
+
+---
+
+## 🎯 Purpose of Each Platform
+- **GitHub** serves as my coding portfolio where I can demonstrate my development skills and track progress.
+- **LinkedIn** helps me create a professional identity and connect with peers, mentors, and recruiters.
+- **Kaggle** allows me to develop skills in data analysis, machine learning, and real-world problem solving.
+
+---
+
+## 🚀 Future Plan (Next 4 Years)
+Over the next four years, I plan to:
+- Regularly upload and improve projects on GitHub to build a strong portfolio.
+- Stay active on LinkedIn by sharing achievements, certifications, and engaging with professional content.
+- Participate in Kaggle competitions and work on datasets to strengthen my data science skills.
+- Continuously update my profiles to reflect new skills and experiences.
+
+---
+
+## 💡 Reflection
+This task helped me realize that maintaining a digital portfolio is essential in today’s world. It not only showcases my abilities but also increases my visibility to potential employers. I learned that consistency and regular updates are key to making the most of these platforms.
+
+---
