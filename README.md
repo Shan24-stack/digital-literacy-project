@@ -28,7 +28,7 @@ The portfolio spans **five tasks** mapped to five course modules, covering:
 - Practising professional email communication
 - Understanding and raising awareness about cybercrime
 
-All work is documented here and in the written Project Report inside the `report` folder.
+All work is documented here and in the written Project Report inside the `reportProject_Report.pdf` folder.
 
 ---
 
@@ -39,7 +39,7 @@ digital-literacy-project/
 │
 ├── README.md                          
 │
-├── report/
+├── reportProject_Report.pdf/
 │   └── Project_Report.pdf             
 │
 ├── task-1-presentation/
@@ -150,7 +150,7 @@ Researched and wrote a detailed case study on **Ransomware**, a cybercrime type 
 ## 📄 Project Report
 
 The full written report covering all five tasks, reflections, and references is available at:
-📂 [`report/Project_Report.pdf`](./report/Project_Report.pdf)
+📂 [`reportProject_Report.pdf/Project_Report.pdf`](./reportProject_Report.pdf/Project_Report.pdf)
 
 ---
 
