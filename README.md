@@ -51,7 +51,7 @@ digital-literacy-project/
 │   ├── github.png           
 │   ├── kaggle.png      
 │   ├── linkedIn1.png
-│   └──  linkedIn2.png
+│   └── linkedIn2.png
 │ 
 ├── task-3-platforms/
 │   ├── HackerRank-activity.png        
