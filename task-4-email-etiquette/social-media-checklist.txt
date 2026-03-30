@@ -1,0 +1,15 @@
+# Responsible Social Media Checklist
+
+### Do's
+* **Update Privacy Settings:** Regularly review who can see your posts and personal info.
+* **Network Professionally:** Use platforms like LinkedIn to highlight your skills in Python and Data Science.
+* **Think Before Posting:** Assume everything you post is permanent and could be seen by a future employer.
+* **Fact-Check Content:** Verify information from reliable sources before hitting "Share."
+* **Secure Your Accounts:** Enable 2FA to prevent unauthorized access to your identity.
+
+### Don'ts
+* **Share Sensitive Info:** Never post your address, student ID, or private contact details.
+* **Post During Conflict:** Avoid posting while angry; digital footprints are hard to erase.
+* **Plagiarize Content:** Never share others' work or AI-generated content without proper attribution.
+* **Ignore Terms of Service:** Be aware of how platforms use your data.
+* **Post Compromising Content:** Avoid sharing anything that violates college conduct or professional ethics.
