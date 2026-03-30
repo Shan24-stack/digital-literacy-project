@@ -1,0 +1,43 @@
+# 📁 Task 3: Explore Coding & Collaboration Platforms – Reflection
+
+## 🧠 Overview
+In this task, I explored coding practice and collaboration tools to improve my technical and teamwork skills. I focused on developing problem-solving abilities and understanding how online platforms support learning and collaboration.
+
+---
+
+## 💻 Platform Used
+- **HackerRank** – I created an account and completed a beginner-level coding challenge. This platform helped me practice programming concepts and improve my logical thinking.
+
+---
+
+## 🛠️ What I Practiced
+On HackerRank, I worked on basic coding problems that involved:
+- Understanding problem statements  
+- Writing simple and efficient code  
+- Testing and debugging solutions  
+
+This hands-on practice strengthened my understanding of programming fundamentals and improved my confidence in coding.
+
+---
+
+## 🤝 Collaboration Tool (Google Workspace)
+I also created a **Google Form** as a Digital Literacy Awareness Quiz for my classmates. The form included:
+- Multiple-choice questions  
+- Short answer questions  
+
+This activity helped me learn how to design quizzes and collect responses using Google Forms, as well as view and analyze responses in Google Sheets.
+
+---
+
+## 🚀 Academic Benefits
+These tools will help me academically by:
+- Improving my coding and problem-solving skills through regular practice on HackerRank  
+- Helping me prepare for coding tests and technical interviews  
+- Enabling collaboration and data collection using Google Forms and Sheets for group projects and assignments  
+
+---
+
+## 💡 Reflection
+This task helped me understand the importance of consistent practice and collaboration in learning. HackerRank improved my coding skills, while Google Workspace tools showed me how to work efficiently with others. Overall, I gained valuable experience that will support my academic and professional growth.
+
+---
